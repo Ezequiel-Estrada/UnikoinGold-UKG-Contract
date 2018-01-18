@@ -1,26 +1,24 @@
 This repository defines the UnikoinGold token distribution flow and provides additional information surrounding the distribution of UKG. The ERC20 token will distribute 1 Billion UKG in total.
 
-You can find the UKG Contract at https://unikoingold.com/contract.
+You can find the UKG Contract at https://.com/.
 
-You can find the [UnikoinGold audit report](https://blog.zeppelin.solutions/unikoingold-token-audit-aafb7de07f3) from Zeppelin Solutions [here](https://blog.zeppelin.solutions/unikoingold-token-audit-aafb7de07f3).
 
 # UKG Links
-* Token Contract Address: 0x24692791Bc444c5Cd0b81e3CBCaba4b04Acd1F3B
-* Token Symbol:UKG
-* Decimals: 18
-* Website: https://unikoingold.com
-* Official Contact Email Address: support@unikoingold.com
-* FAQ: https://unikoingold.com/faq
-* Facebook: https://www.facebook.com/unikoingold
-* Twitter: https://twitter.com/unikoingold
-* Blog: https://news.unikrn.com/topic/UnikoinGold
-* Bitcointalk: https://bitcointalk.org/index.php?topic=2206150.40
-* Github: https://github.com/unikoingold/UnikoinGold-UKG-Contract
-* Whitepaper: https://unikoingold.com/whitepaper
-* Reddit: https://www.reddit.com/r/unikoingold/
-* Discord: https://community.unikrn.com
-* UKG Logo: https://f.unkrn.com/2017-11-04/a/1509813079_unikoin-icon-gold.svg
-* Unikrn Website: https://unikrn.com
+* Token Contract Address: 
+* Token Symbol:IST
+* Decimals: 8
+* Website: https://com
+* Official Contact Email Address: com
+* FAQ: https://q
+* Facebook: https://
+* Twitter: https://twitter.co
+* Bitcointalk: https://bitcointalk.org/in40
+* Github: https://github.com/
+* Whitepaper: https://
+* Reddit: https://www.reddit.com/r/ISToken/
+* Discord: https://communi
+* Logo: https
+* Unikrn Website: https:/
  
 
 ## Table of Contents
