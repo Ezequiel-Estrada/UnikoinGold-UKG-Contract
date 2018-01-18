@@ -3,7 +3,7 @@ pragma solidity ^0.4.15;
 import 'zeppelin-solidity/contracts/math/SafeMath.sol';
 import 'zeppelin-solidity/contracts/token/StandardToken.sol';
 
-contract UnikoinGold is StandardToken {
+contract ISToken is StandardToken {
 
     // ERC20 Standard
     string public constant name = "UnikoinGold";
@@ -18,7 +18,7 @@ contract UnikoinGold is StandardToken {
 
     event CreateUKGEvent(address indexed _to, uint256 _value);  // Logs the creation of the token
 
-    function UnikoinGold(address _tokenDistributionContract, address _ukgFund){
+    function ISToken(address _tokenDistributionContract, address _ukgFund){
         require(_tokenDistributionContract != 0);  // Force this value not to be initialized to 0
         require(_ukgFund != 0);                    // Force this value not to be initialized to 0
         require(TOTAL_TOKENS == TOTAL_COMMUNITY_ALLOCATION.add(UKG_FUND));  // Check that there are 1 Billion tokens total
